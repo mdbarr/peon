@@ -1,0 +1,18 @@
+{
+  "name": "peon",
+  "version": "0.0.1",
+  "description": "Javascript Task Runner",
+  "main": "index.js",
+  "repository": "git@github.com:mdbarr/peon.git",
+  "author": "Mark Barr <mark@hyperingenuity.com>",
+  "license": "MIT",
+  "dependencies": {
+    "barrkeep": "^2.8.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.19.0"
+  },
+  "scripts": {
+    "lint": "eslint *.js"
+  }
+}
