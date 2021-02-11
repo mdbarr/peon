@@ -1,5 +1,5 @@
 {
-  "name": "peon",
+  "name": "@hyperingenuity/peon",
   "version": "0.0.1",
   "description": "Javascript Task Runner",
   "main": "index.js",
@@ -13,6 +13,6 @@
     "eslint": "^7.19.0"
   },
   "scripts": {
-    "lint": "eslint *.js"
+    "lint": "eslint index.js examples"
   }
 }
